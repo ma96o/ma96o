@@ -3,8 +3,8 @@
 I’m currently learning about Solidity and Rust.
 
 <p align="left"> 
-  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ma96o&layout=compact&count_private=true&show_icons=true&theme=dark" />
-  <img align="right" alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=ma96o&count_private=true&show_icons=true&show_icons=true&theme=dark" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ma96o&layout=compact&count_private=true&show_icons=true&theme=dark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ma96o&count_private=true&show_icons=true&show_icons=true&theme=dark" />
 </p>
 
 

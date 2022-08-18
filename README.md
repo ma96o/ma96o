@@ -1,4 +1,4 @@
-<h3>Just a developer.</h3>
+<h3>a developer.</h3>
 
 I’m currently learning about **Solidity**<a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://soliditylang.org/images/logo.svg" alt="circleci" width="40" height="40"/> </a> and **Rust** <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="circleci" width="40" height="40"/> </a>.
 

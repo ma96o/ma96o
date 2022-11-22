@@ -1,6 +1,6 @@
-<h3>a developer.</h3>
+my hair is long.
 
-I’m currently learning about **Solidity**<a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://soliditylang.org/images/logo.svg" alt="circleci" width="40" height="40"/> </a> and **Rust** <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="circleci" width="40" height="40"/> </a>.
+I’m currently learning about Solidity and Rust.
 
 
 <p align="left"> 
